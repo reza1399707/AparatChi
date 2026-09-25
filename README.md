@@ -28,4 +28,5 @@ Aparat.com Bulk Downloader - Professional Windows GUI
  * Mouse-wheel scrolling works over the entire queue area.
  * New tasks auto-start if the queue is currently running.
  * Bismillah 786 banner at the top of the window and About dialog.
+
 ============================================================================
