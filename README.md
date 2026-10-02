@@ -61,7 +61,7 @@
 ---
 
 ## 🖼 Screenshots
-
+![Main window](Docs/screenshot-main.png)
 > _Add your screenshots here._
 >
 > ```
